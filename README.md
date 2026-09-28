@@ -3,6 +3,7 @@
 - 🌱 I'm continuosly trying to learn something new and feeding my mind with new challenges 🥋💪🏻
 - 📫 How to reach me:
 - www.linkedin.com/in/alessio-calogiuri-769a38259
+- https://gitlab.com/AleXCalogiuri
 
 <!---
 AleXCalogiuri/AleXCalogiuri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
